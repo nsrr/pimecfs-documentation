@@ -54,7 +54,7 @@ When using this dataset, users must cite the following:
 
 Users must include the following text in any Acknowledgements:
 
-> The Myalgic Encephalomyelitis/Chronic Fatigue Syndrome at the National Institutes of Health study was supported by the Intramural Research Program of the NIH. The National Sleep Research Resource was supported by the U.S. National Institutes of Health, National Heart Lung and Blood Institute (R24 HL114473, 75N92019R002). 
+> The Myalgic Encephalomyelitis/Chronic Fatigue Syndrome at the National Institutes of Health study was supported by the Intramural Research Program of the NIH. The National Sleep Research Resource was supported by the U.S. National Institutes of Health, National Heart Lung and Blood Institute (R24 HL114473, 75N92019R002, 75N92025R00007). 
 
 ## Changelog
 
